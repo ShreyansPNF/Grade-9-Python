@@ -1,5 +1,5 @@
-**# Grade-9-Python**
-**### Full python guide for grade 9 (Nepal CDC Curriculum)**
+** # Grade-9-Python**
+** ### Full python guide for grade 9 (Nepal CDC Curriculum)**
 
 --------------------------------------------------------------------------------------
 ## This guide includes all the programs required in grade 9 according to the CDC Curriculum
